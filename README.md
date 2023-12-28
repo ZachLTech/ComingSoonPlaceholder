@@ -1,2 +1,2 @@
-# ComingSoonPlaceholder
-Just some placeholder HTML to put on new domains for websites I'm building
+# Placeholder Site
+Placeholder for my domains with up and coming projects 😄
