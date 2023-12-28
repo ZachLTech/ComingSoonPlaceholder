@@ -14,7 +14,7 @@ This was originally just for my domains I plan to host projects on, but if anyon
 
 ## App
 
-### Getting Started Locally
+### 🖥️ Getting Started Locally
 
 1. Clone the repository:
 
@@ -34,7 +34,7 @@ This was originally just for my domains I plan to host projects on, but if anyon
    npm install
    ```
 
-### Customizing the Under Construction Page
+### 🎨 Customizing the Under Construction Page
 
 Edit the content of the under construction page by modifying the files in the `app/components` directory.
 
@@ -43,7 +43,7 @@ Edit the content of the under construction page by modifying the files in the `a
 - `app/public/favicon.ico` - swap file to change site favicon (obviously lol)
 - `app/components/Hero.vue` & `app/components/HeroMobile.vue` - edit to change splash message & github account href
 
-### Running the App Locally
+### 🏃 Running the App Locally
 
 Run the following command to start the development server:
 
@@ -53,11 +53,11 @@ npm run dev
 
 Visit `http://localhost:3000` in your browser to see the under construction page.
 
-## Docker Support & Self Hosting
+## 🐳 Docker Support & Self Hosting
 
 Ensure that both the `Dockerfile` and `docker-compose.yml` are in the same directory. Also feel free to edit the `docker-compose.yml` file to change what ports you want the webpage on.
 
-### Build the Docker Image
+### 🏗️ Build the Docker Image
 
 Build the Docker image using:
 
@@ -65,7 +65,7 @@ Build the Docker image using:
 docker-compose build
 ```
 
-### Run the Docker Container
+### 🚀 Run the Docker Container
 
 Start the Docker container with:
 
@@ -73,9 +73,9 @@ Start the Docker container with:
 docker-compose up -d
 ```
 
-#### OR (Recommended)
+### 😮 Alternative One-liner
 
-One liner to Build and Start the Docker file & container
+Single command to Build and Start the Docker file & container:
 
 ```bash
 docker-compose up --build -d
@@ -83,7 +83,7 @@ docker-compose up --build -d
 
 Visit `http://localhost:3000` in your browser to access the under construction page served by the Docker container or replace `localhost` with the hosts iPv4 on another device if you're on the same network.
 
-### Stopping the Docker Container
+### ⏹️ Stopping the Docker Container
 
 To stop the Docker container, run:
 
@@ -91,7 +91,7 @@ To stop the Docker container, run:
 docker-compose down
 ```
 
-## Self-Hosting
+## 🌐 Self-Hosting Overview
 
 To deploy the under construction page on your server:
 
@@ -101,6 +101,6 @@ To deploy the under construction page on your server:
 
 Now, your "Under Construction" page should be accessible through your server's local ip.
 
-Feel free to customize the page content, styles, and configurations based on your preferences.
 
-🚀 Happy self-hosting!
+Feel free to customize the page content, styles, and configurations based on your preferences, or even contribue 🤷‍♂️.
+🚀 Happy self-hosting! 😄
