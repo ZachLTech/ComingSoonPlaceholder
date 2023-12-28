@@ -11,6 +11,7 @@ This was originally just for my domains I plan to host projects on, but if anyon
 - 💫 **Cursor Effects:** Interact with an orb that follows your mouse movements.
 - 📱 **Mobile/Tablet Support:** The under construction page is responsive and optimized for various devices.
 - 🚀 **Image Optimization:** Images are optimized for faster loading times without compromising quality.
+
 If you want to see it in action, check out the [Demo](https://comingsoondemo.zachl.space/) running with my customizations.
 
 ## App
