@@ -12,7 +12,7 @@ This was originally just for my domains I plan to host projects on, but if anyon
 - 📱 **Mobile/Tablet Support:** The under construction page is responsive and optimized for various devices.
 - 🚀 **Image Optimization:** Images are optimized for faster loading times without compromising quality.
 
-If you want to see it in action, check out the [Demo](https://comingsoondemo.zachl.space/) running with my customizations.
+If you want to see it in action, check out the [Demo](https://comingsoondemo.zachl.tech/) running with my customizations.
 
 ## App
 
